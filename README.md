@@ -29,7 +29,7 @@ And then execute:
 
 For Rails, execute this rake task for out-of-the-box setup:
 
-    $ rake settei:install:rails
+    $ rake settei:rails:install
 
 This task does the following things:
 
