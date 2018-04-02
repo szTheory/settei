@@ -1,5 +1,7 @@
 # Settei
 
+[![Build Status](https://travis-ci.org/szTheory/settei.svg?branch=master)](https://travis-ci.org/szTheory/settei)
+
 Config as YAML file yet still being 12-factor compliant...
 
 ...by serializing the file as one environment variable.
